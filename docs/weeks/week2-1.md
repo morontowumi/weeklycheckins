@@ -1,7 +1,7 @@
 
-# Week 2 Mentorship program
+## Week 2 Mentorship program
 
-# Date: 27/10/2025
+## Date: 27/10/2025
 
 ## Discussion points
 
